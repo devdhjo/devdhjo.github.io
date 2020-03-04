@@ -20,6 +20,12 @@ article {
   .footnotes {
     font-size: 0.9em;
   }
+
+  .post-content {
+    h1, h2, h3, h4 {
+      margin-top: 2em;
+    }
+  }
 }
 
 footer {

@@ -1,6 +1,5 @@
 .tag-list {
   width: 100%;
-  font-size: 0.9em;
   padding-bottom: $padding-x-small;
 
   div.meta {
@@ -15,6 +14,8 @@
   p {
     margin: 0;
     padding: 0 0.2em 0 0;
+    font-size: 0.9em;
+    font-family: $font-family-logo;
   }
 }
 

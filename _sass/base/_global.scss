@@ -13,10 +13,6 @@ figure {
   box-sizing: content-box;
 }
 
-pre {
-  overflow-x: scroll;
-}
-
 html {
   background: $background-color;
 }
@@ -45,7 +41,8 @@ h5,
 h6 {
   font-family: $font-family-headings;
   line-height: 1.3;
-  margin: 0.67em 0;
+  margin: 0.5em 0;
+  font-weight: 800;
 
   a {
     color: $text-color;
@@ -54,7 +51,7 @@ h6 {
 }
 
 h1 {
-  font-size: 2.3em;
+  font-size: 2em;
 }
 
 h2 {
