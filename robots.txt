@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+User-agent: BadBot
+Disallow: /
+Sitemap: http://devdhjo.github.io/sitemap.xml
