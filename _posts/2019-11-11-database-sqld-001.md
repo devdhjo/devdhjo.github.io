@@ -6,7 +6,7 @@ categories: sqld
 ---
 
 > 제35회 SQLD 합격 후기도 포스팅하였습니다.  
-> -- [[SQLD] 027# 제35회 SQLD 합격 후기 / 시험 공부 꿀팁](https://devdhjo.github.io/sqld/2019/12/31/database-sqld-027.html)
+> -- [[SQLD] 026# 제35회 SQLD 합격 후기 / 시험 공부 꿀팁](https://devdhjo.github.io/sqld/2019/12/31/database-sqld-026.html)
 
 - SQL의 국가공인 자격증은 SQLD (개발자) 와 상위 단계인 SQLP (전문가) 두 종류가 있습니다.  
 두 시험 모두 국가공인 자격으로 유효기간은 2년이며, 취득 1년 6개월 이후부터 온라인 보수교육을 통해 영구자격으로 갱신이 가능합니다.  

@@ -139,7 +139,7 @@ SQLD 마지막 단원인 'SQL 최적화 기본 원리' 페이지는 시험 당�
 
 - 비슷한 함수끼리 한 문제에 여러 선택지로 같이 출제됩니다!  
 -- 예를 들면 쿼리 결과가 문제로 나오고, 어떤 함수를 사용한 결과인지 선택하는 문제에 보기로 RANK, DENSE_RANK, ROW_NUMBER 세 개의 순위함수가 같이 나올 수 있습니다.  
--- 참고 > [024# 윈도우 함수](https://devdhjo.github.io/sqld/2019/11/27/database-sqld-024.html)  
+-- 참고 > [024# 윈도우 함수](https://devdhjo.github.io/sqld/2019/11/27/database-sqld-023.html)  
 - 이론에 나오는 예제의 쿼리 결과도 꼭 한번씩 풀이해보는 것을 추천합니다.  
 
 ---
