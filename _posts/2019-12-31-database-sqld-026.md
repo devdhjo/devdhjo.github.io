@@ -12,9 +12,13 @@ categories: sqld
 - SQL 자격 시험은 1년에 총 4회 진행되며, 아래 링크에서 자세한 내용을 확인할 수 있습니다.  
 -- [2020 데이터 자격시험 일정 확인](https://www.dataq.or.kr/www/accept/schedule.do)  
 
-![sql_schedule_2020](https://drive.google.com/uc?id=15v6_aNNjZhg11iJ0eLs-pnLqt4wcXSNb)  
+#### ★ 코로나19 로 인해 시험일정이 변경되었습니다.  
+-- [일정 변경 안내 공지사항 보기](https://www.dataq.or.kr/www/board/view.do?bbsattrSeq=1&bbsSeq=500715&boardKind=notice)  
+-- [코로나 19 관련 수험자 안내사항](https://www.dataq.or.kr/www/board/view.do?bbsattrSeq=1&bbsSeq=500560&boardKind=notice)  
 
-- SQL 시험 시작 시간은 오전 10시, 입실시간은 오전 9시 40분까지 입니다.
+![sql_schedule_2020](https://drive.google.com/uc?id=1L6dytsWYBf4iptISCP35xwXBCbFvl5sw)  
+
+- SQL 시험 시작 시간은 오전 10시, 입실시간은 오전 9시 40분까지 입니다.  
 
 
 ### 1. 시험 접수  
@@ -30,7 +34,7 @@ categories: sqld
 - [https://www.dataq.or.kr/www/accept/list.do](https://www.dataq.or.kr/www/accept/list.do)  
 -- 접수하기 전 로그인이 필요합니다. 아이디가 없으신 분들은 회원가입 먼저 진행해주세요!
 
-![sqld_certificate_001](https://drive.google.com/uc?id=1JAoMj6niTI8BWJllwn_NTDxKIImG2izV)  
+![sqld_certificate_001](https://drive.google.com/uc?id=1snElF1H4-nDM5GV-SoKrO0lnaeavurrY)  
 
 #### 3) 본인인증 및 개인정보 입력  
 
@@ -61,7 +65,7 @@ categories: sqld
 ![sqld-studyplan](https://drive.google.com/uc?id=1MMjND8sKgVJLTN7rz8QpfBqxRyY-WLQo)  
 
 DBGuide.net 의 SQL 가이드 페이지에서 이론을 공부하다보니, 정리되지 않은 내용이나 오타가 굉장히 많더라구요! 그래서 저는 필요한 내용을 다시 한 번 정리하여 학습하였습니다. 제가 정리한 내용은 블로그에 포스팅 하였습니다.  
--- [Dev.log > #SQLD](https://devdhjo.github.io/tags/#SQLD)  
+-- [Dev.log > #SQLD](https://devdhjo.github.io/sqld/)  
 
 퇴근 후 카페에 가서 2-3시간 정도 공부하였고, 약속을 최소화 하긴 했지만 공부 못한 날도 있었어요..ㅎ_ㅎ  
 한 단원 이론 공부가 끝나면 그 단원 문제풀이 하는 방식으로 공부했고, 문제풀이는 [SQL 자격검정 실전문제](https://book.naver.com/bookdb/book_detail.nhn?bid=11346202) 책으로 공부했습니다.  
@@ -119,7 +123,7 @@ SQLD 마지막 단원인 'SQL 최적화 기본 원리' 페이지는 시험 당�
 
 ---|---
 시험접수|[DataQ > 시험접수 > 접수신청(개인)](https://www.dataq.or.kr/www/accept/list.do)
-이론|[DBGuide.net > SQL 가이드](http://www.dbguide.net/db.db?cmd=view&boardUid=148404&boardConfigUid=9&categoryUid=216&boardIdx=132&boardStep=1)  <br>[Dev.log > #SQLD](https://devdhjo.github.io/tags/#SQLD)
+이론|[DBGuide.net > SQL 가이드](http://www.dbguide.net/db.db?cmd=view&boardUid=148404&boardConfigUid=9&categoryUid=216&boardIdx=132&boardStep=1)  <br>[Dev.log > SQLD](https://devdhjo.github.io/sqld/)
 기출문제|[SQL 자격검정 실전문제](https://book.naver.com/bookdb/book_detail.nhn?bid=11346202)
 가채점|네이버 카페 [데이터베이스(DB) 전문가 포럼](https://cafe.naver.com/sqlpd)
 시험결과|[DataQ > 마이페이지 > 시험결과](https://www.dataq.or.kr/www/mypage/accept/result.do)
@@ -139,7 +143,7 @@ SQLD 마지막 단원인 'SQL 최적화 기본 원리' 페이지는 시험 당�
 
 - 비슷한 함수끼리 한 문제에 여러 선택지로 같이 출제됩니다!  
 -- 예를 들면 쿼리 결과가 문제로 나오고, 어떤 함수를 사용한 결과인지 선택하는 문제에 보기로 RANK, DENSE_RANK, ROW_NUMBER 세 개의 순위함수가 같이 나올 수 있습니다.  
--- 참고 > [024# 윈도우 함수](https://devdhjo.github.io/sqld/2019/11/27/database-sqld-023.html)  
+-- 참고 > [023# 윈도우 함수](https://devdhjo.github.io/sqld/2019/11/27/database-sqld-023.html)  
 - 이론에 나오는 예제의 쿼리 결과도 꼭 한번씩 풀이해보는 것을 추천합니다.  
 
 ---
