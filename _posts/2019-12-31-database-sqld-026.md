@@ -12,14 +12,16 @@ categories: sqld
 - SQL 자격 시험은 1년에 총 4회 진행되며, 아래 링크에서 자세한 내용을 확인할 수 있습니다.  
 -- [2020 데이터 자격시험 일정 확인](https://www.dataq.or.kr/www/accept/schedule.do)  
 
-#### ★ 코로나19 로 인해 시험일정이 변경되었습니다.  
--- [일정 변경 안내 공지사항 보기](https://www.dataq.or.kr/www/board/view.do?bbsattrSeq=1&bbsSeq=500715&boardKind=notice)  
--- [코로나 19 관련 수험자 안내사항](https://www.dataq.or.kr/www/board/view.do?bbsattrSeq=1&bbsSeq=500560&boardKind=notice)  
-
 ![sql_schedule_2020](https://drive.google.com/uc?id=1L6dytsWYBf4iptISCP35xwXBCbFvl5sw)  
 
 - SQL 시험 시작 시간은 오전 10시, 입실시간은 오전 9시 40분까지 입니다.  
 
+#### ★ 코로나19 로 인해 시험일정이 변경되었습니다.  
+-- [일정 변경 안내 공지사항 보기](https://www.dataq.or.kr/www/board/view.do?bbsattrSeq=1&bbsSeq=500715&boardKind=notice)  
+-- [코로나 19 관련 수험자 안내사항](https://www.dataq.or.kr/www/board/view.do?bbsattrSeq=1&bbsSeq=500560&boardKind=notice)  
+
+#### ★ 코로나19 로 인해 데이터 자격검정 1분기 시험이 전면 취소되었습니다.  
+-- [시험 취소 안내 공지사항 보기](https://www.dataq.or.kr/www/board/view.do?bbsattrSeq=1&bbsSeq=500968&boardKind=notice)  
 
 ### 1. 시험 접수  
 
